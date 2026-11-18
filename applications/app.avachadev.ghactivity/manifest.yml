@@ -1,0 +1,18 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/avachadev/busybar-github-activity.git
+    commit_sha: 613227c49606f07385c16a02d2d64eab1cf7ca7b
+category: dev-monitoring
+short_description: Your GitHub contributions by day, week, month and year, over the contribution graph. No token, no computer.
+description: |-
+  Your GitHub contributions on the BUSY Bar. Press **Start** or **OK** to switch between day, week, month and year; turn the Scroll Wheel to go back in time. The back screen shows your stats.
+
+  **Setup:** in the bar's web interface open **Apps → GitHub Activity** and paste your profile link. No token needed.
+changelog: First version in the catalog.
+screenshots:
+  - screenshots/front-1.png
+  - screenshots/front-2.png
+  - screenshots/front-3.png
+back_screenshots:
+  - screenshots/back-1.png
