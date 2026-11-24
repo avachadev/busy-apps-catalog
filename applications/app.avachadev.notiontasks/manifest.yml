@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/avachadev/busybar-notion-tasks.git
-    commit_sha: 7cd370b94cec89467ea774b02f0fb6871bb11f7e  # 1.0.2
+    commit_sha: fa049068521c409d1acc35cf10f1ae20a52b026c  # 1.0.3
 category: productivity
 short_description: Browse Notion and tick tasks off from the BUSY Bar
 description: |-
@@ -24,7 +24,7 @@ description: |-
   4. Your top-level pages appear on the bar in a few seconds.
 
   On some Notion plans only workspace owners can create a personal access token. An internal connection works too, and sees only the pages you share with it: create it in Notion's developer portal with Read content and Update content, paste its token the same way, then add the connection to the pages you want on the bar.
-changelog: First version in the catalog.
+changelog: New screenshots in the catalog. The app itself is unchanged.
 screenshots:
   - screenshots/front-1.png
   - screenshots/front-2.png
